@@ -1,0 +1,16 @@
+body{
+  font-family: 'Sunflower', sans-serif;
+}
+
+h1, h2{
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+}
+main {
+  padding: 30px;
+}
+hr {
+  width: 50%;
+  margin-left: 0;
+  font-size: 10px;
+}
